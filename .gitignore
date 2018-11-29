@@ -1,0 +1,10 @@
+library/*
+Temp/*
+ProjectSettings/*
+*.meta
+obj/*
+Packages/*
+.vs/*
+*.csproj
+*.psd
+*textmesh*
